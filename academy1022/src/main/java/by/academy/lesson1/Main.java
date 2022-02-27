@@ -20,5 +20,8 @@ public class Main {
 		 
 		 cat3.setNickname("Myrka");
 		 System.out.println(cat3.getNickname());
+		 
+		 cat3.setNickname("Byrka");
+		 System.out.println(cat3.getNickname());
 	}
 }
